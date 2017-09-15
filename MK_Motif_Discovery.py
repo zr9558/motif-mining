@@ -61,7 +61,7 @@ class Motif_Discovery(object):
 			offset = offset + 1
 			abandon = True
 
-			for j in range(R):
+			for j in range(m-offset):
 				reject = False
 				for i in range(R):
 					# print 
