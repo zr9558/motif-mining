@@ -2,8 +2,6 @@
 import numpy as np
 import random
 
-
-
 class Motif_Discovery(object):
 	"""docstring for Motif_Discovery"""
 	def __init__(self):
